@@ -4,3 +4,7 @@ rules:
   upstream: tks18:master
   mergeMethod: merge
   mergeUnstable: false
+- base: develop
+  upstream: tks18:develop
+  mergeMethod: merge
+  mergeUnstable: false
